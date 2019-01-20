@@ -1,4 +1,4 @@
-package com.sgcharts.sort;
+package com.sgcharts.collections.sort;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
-import static com.sgcharts.sort.Heapsort.sort;
+import static com.sgcharts.collections.sort.Heapsort.sort;
 
 public class HeapsortTest {
 

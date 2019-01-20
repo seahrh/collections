@@ -2,11 +2,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.sgcharts</groupId>
-    <artifactId>sort</artifactId>
+    <artifactId>collections</artifactId>
     <version>0.1.0</version>
     <packaging>jar</packaging>
-    <name>sort</name>
-    <url>https://github.com/seahrh/sort</url>
+    <name>collections</name>
+    <url>https://github.com/seahrh/collections</url>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>

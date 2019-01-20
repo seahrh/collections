@@ -1,4 +1,4 @@
-package com.sgcharts.sort;
+package com.sgcharts.collections.sort;
 
 import java.util.ArrayList;
 import java.util.Comparator;

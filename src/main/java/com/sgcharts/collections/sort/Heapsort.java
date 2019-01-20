@@ -1,4 +1,4 @@
-package com.sgcharts.sort;
+package com.sgcharts.collections.sort;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
